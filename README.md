@@ -1,16 +1,6 @@
 # UV
 Um pacote Python extremamente rápido e gerenciador de projetos, escrito em Rust.
 
-- 🚀 Uma única ferramenta para substituir pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv, e muito mais.
-- ⚡️ 10-100x mais rápido que pip.
-- 🐍 Instala e gerencia versões do Python.
-- 🛠️ Executa e instala aplicativos Python.
-- ❇️ Executa scripts , com suporte para metadados de dependência em linha .
-- 🗂️ Fornece gerenciamento de projeto abrangente , com um arquivo de bloqueio universal .
-- 🔩 Inclui uma interface compatível com pip para aumentar o desempenho com uma CLI familiar.
-- 🏢 Suporta espaços de trabalho no estilo Cargo para projetos escaláveis.
-- 💾 Eficiente em termos de espaço em disco, com um cache global para desduplicação de dependências.
-
 **Em resumo:** É o Cargo do Rust!
 
 ---
